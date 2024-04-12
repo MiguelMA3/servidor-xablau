@@ -48,7 +48,7 @@ Para testar o servidor basta realizar uma requisição GET com a url seguida do 
 
 ## Autores
 
-Este projeto foi desenvolvido por Miguel Maletzke e Victor Rey como parte da disciplina de Sistemas Distribuídos.
+Este projeto foi desenvolvido por Miguel Maletzke e documentado por Victor Rey como parte da disciplina de Sistemas Distribuídos.
 
 ##
 <div style="display: inline_block">
