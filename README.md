@@ -49,3 +49,8 @@ Para testar o servidor basta realizar uma requisição GET com a url seguida do 
 ## Autores
 
 Este projeto foi desenvolvido por Miguel Maletzke e Victor Rey como parte da disciplina de Sistemas Distribuídos.
+
+##
+<div style="display: inline_block">
+<img align="center" alt="Logo-GO" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+</div>
